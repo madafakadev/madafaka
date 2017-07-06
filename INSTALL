@@ -1,0 +1,9 @@
+Building MadafakaCrewCoin
+
+See doc/readme-qt.rst for instructions on building MadafakaCrewCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of MadafakaCrewCoin.
+
+See doc/build-*.txt for instructions on building madafakacrewcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of MadafakaCrewCoin.
